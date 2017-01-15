@@ -9,6 +9,6 @@ System.out.println(y);
 	}
 
 	public static int add(int num1, int num2){
-		return num1+num2+33;
+		return num1+num2;
 	}
 }
