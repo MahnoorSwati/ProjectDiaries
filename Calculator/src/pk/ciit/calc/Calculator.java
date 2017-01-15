@@ -13,6 +13,7 @@ public class Calculator {
 		// TODO Auto-generated constructor stub
 	}
 	
+	
 	/**
 	 * This method calculates the sum of two numbers
 	 * @param num1 is the first number to be added
